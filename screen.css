@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    margin: 20%;
+}
+
+body p::first-letter {
+    color: hsl(220, 94%, 51%);
+    font-weight: bold;
+    font-size: 4rem;
+}
